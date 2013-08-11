@@ -1,6 +1,6 @@
 {
   "name": "raspi-temp-webservice-static",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "static files as a service",
   "main": "app.js",
   "scripts": {
