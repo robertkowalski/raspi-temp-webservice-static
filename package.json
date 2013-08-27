@@ -1,6 +1,6 @@
 {
   "name": "raspi-weather-webservice-static",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "static files as a service",
   "main": "app.js",
   "scripts": {
