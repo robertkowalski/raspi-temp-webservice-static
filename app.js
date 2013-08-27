@@ -11,12 +11,17 @@ else
 
 module.exports = serveStatic
 function serveStatic (cb) {
-  http.createServer(
-    ecstatic({ root: env.TEMPLOGPATH || '/data', showDir: true })
+  var s = http.createServer(
+    ecstatic({
+      root: env.TEMPLOGPATH || '/data',
+      showDir: true,
+      baseDir: env.BASEDIR || '/'
+    })
   ).listen(port, function () {
     console.log('ecstatic listening...')
     cb && cb()
   })
+  return s
 }
 
 serveStatic.port = port

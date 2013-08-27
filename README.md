@@ -10,7 +10,12 @@ Folder to expose: (defaults to `/data`)
 env.TEMPLOGPATH
 ```
 
-App Port (defaults to `1337`)
+App port (defaults to `1337`)
 ```
 env.PORT
+```
+
+Serving route
+```
+env.BASEDIR
 ```
