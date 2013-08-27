@@ -1,5 +1,5 @@
 {
-  "name": "raspi-temp-webservice-static",
+  "name": "raspi-weather-webservice-static",
   "version": "0.2.0",
   "description": "static files as a service",
   "main": "app.js",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:robertkowalski/raspi-temp-webservice-static.git"
+    "url": "git@github.com:robertkowalski/raspi-weather-webservice-static.git"
   },
   "keywords": [
     "Raspberry",
@@ -29,6 +29,6 @@
   "author": "Robert Kowalski <rok@kowalski.gd>",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/robertkowalski/raspi-temp-webservice-static/issues"
+    "url": "https://github.com/robertkowalski/raspi-weather-webservice-static/issues"
   }
 }

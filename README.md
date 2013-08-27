@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/robertkowalski/raspi-temp-webservice-static.png?branch=master)](https://travis-ci.org/robertkowalski/raspi-temp-webservice-static)
-[![Dependency Status](https://gemnasium.com/robertkowalski/raspi-temp-webservice-static.png)](https://gemnasium.com/robertkowalski/raspi-temp-webservice-static)
+[![Build Status](https://travis-ci.org/robertkowalski/raspi-temp-webservice-static.png?branch=master)](https://travis-ci.org/robertkowalski/raspi-weather-webservice-static)
+[![Dependency Status](https://gemnasium.com/robertkowalski/raspi-temp-webservice-static.png)](https://gemnasium.com/robertkowalski/raspi-weather-webservice-static)
 
-#raspi-temp-webservices
+#raspi-weather-static
 
 ##Environment variables
 
